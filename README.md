@@ -16,4 +16,6 @@ And what can I do?
 -------------
 This is one of my first Xamarin.iOS projects, so I'm more then aware of the fact that it can be optimized in many, many ways. That is where your knowledge can come in handy. If you have ideas, additions, improvements etc. you are more then welcome to share them. Check below for a short video of what the current version of Wahoo has to offer.
 
-http://youtu.be/UScFlP0rJBI
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UScFlP0rJBI
+" target="_blank"><img src="http://img.youtube.com/vi/UScFlP0rJBI/0.jpg" 
+alt="Wahoo!" width="240" height="180" border="10" /></a>
