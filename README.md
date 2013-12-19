@@ -18,4 +18,4 @@ This is one of my first Xamarin.iOS projects, so I'm more then aware of the fact
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UScFlP0rJBI
 " target="_blank"><img src="http://img.youtube.com/vi/UScFlP0rJBI/0.jpg" 
-alt="Wahoo!" width="240" height="180" border="10" /></a>
+alt="Wahoo!" width="450" height="338" border="10" /></a>
