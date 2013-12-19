@@ -1,0 +1,6 @@
+C:\Users\sthewissen\Documents\Visual Studio 2012\Projects\Dvolve.UIEffects\Wahoo.iOS\bin\iPhone\Debug\WahooiOS.exe
+C:\Users\sthewissen\Documents\Visual Studio 2012\Projects\Dvolve.UIEffects\Wahoo.iOS\bin\iPhone\Debug\WahooiOS.pdb
+C:\Users\sthewissen\Documents\Visual Studio 2012\Projects\Dvolve.UIEffects\Wahoo.iOS\obj\iPhone\Debug\WahooiOS.exe
+C:\Users\sthewissen\Documents\Visual Studio 2012\Projects\Dvolve.UIEffects\Wahoo.iOS\obj\iPhone\Debug\WahooiOS.pdb
+C:\Users\sthewissen\Documents\GitHub\Wahoo\Wahoo.iOS\obj\iPhone\Debug\WahooiOS.exe
+C:\Users\sthewissen\Documents\GitHub\Wahoo\Wahoo.iOS\obj\iPhone\Debug\WahooiOS.pdb
